@@ -1,5 +1,8 @@
 # SecurePassGen - Password Generator Tool
 
+![img](https://github.com/midnight-mihir/SecurePassGen/blob/main/img.png)
+
+
 ## Description
 **SecurePassGen** is a simple yet secure password generator tool that allows users to create strong and complex passwords within a length range of 16 to 24 characters. The tool ensures that each password is generated using a combination of letters (upper and lowercase), digits, and special characters to enhance security.
 
